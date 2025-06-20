@@ -1,20 +1,5 @@
 🛒Shopping Cart-MERN
-Table of Contents
-About the Project
-Features
-Tech Stack
-Getting Started
-Prerequisites
-Installation
-Environment Variables
-Running the Application
-Project Structure
-API Endpoints (Optional but Recommended)
-Usage
-Contributing
-License
-Contact
-Acknowledgements
+
 About The Project
 Shopping cart mern is a modern, full-stack e-commerce shopping cart application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a seamless and intuitive user experience for Browse products, adding them to a cart, and managing orders.
 
