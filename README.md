@@ -12,9 +12,8 @@ A fully functional e-commerce shopping cart application built with the **MERN** 
 
 ## 📸 Demo
 
-> 🚀 Live demo coming soon...
 
-https://user-images.githubusercontent.com/.../demo.gif *(You can record and add a GIF demo here using Loom or Screenity)*
+
 
 ---
 
